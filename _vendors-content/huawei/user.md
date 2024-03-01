@@ -1,4 +1,4 @@
----
+lipun---
 manufacturer:
     - huawei
 
